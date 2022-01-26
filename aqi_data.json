@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 81.6333,
+        "lat": 21.2333
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 25.08,
+        "feels_like": 25.68,
+        "temp_min": 25.08,
+        "temp_max": 25.08,
+        "pressure": 1013,
+        "humidity": 78
+    },
+    "visibility": 3000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 130
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1637683904,
+    "sys": {
+        "type": 1,
+        "id": 9168,
+        "country": "IN",
+        "sunrise": 1637628558,
+        "sunset": 1637668244
+    },
+    "timezone": 19800,
+    "id": 1258980,
+    "name": "Raipur",
+    "cod": 200
+}
