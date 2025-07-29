@@ -1,0 +1,13 @@
+# Simplified requirements for WebContainer environment
+# Note: Selenium cannot be installed in WebContainer due to system limitations
+# This file lists what would be needed in a full Python environment
+
+# selenium==4.15.0
+# pytest==7.4.3
+# pytest-html==4.1.1
+# webdriver-manager==4.0.1
+
+# For WebContainer, we use only built-in Python modules:
+# - json (built-in)
+# - time (built-in)
+# - datetime (built-in)
